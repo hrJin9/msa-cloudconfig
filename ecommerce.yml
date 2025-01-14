@@ -1,6 +1,6 @@
 token:
     expiration_time: 86400000
-    secret: ecommerceusertokenforjwtsforlongnumberwherecanitbegothrough
+    secret: change2ecommerceusertokenforjwtsforlongnumberwherecanitbegothrough
 
 gateway:
     ip: 127.0.0.1
