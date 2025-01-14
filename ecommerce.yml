@@ -1,6 +1,6 @@
 token:
-    expiration_time: 864
-    secret: value1
+    expiration_time: 864987987987
+    secret: value1123123123expirationdatechangedall
 
 gateway:
     ip: 127.0.0.1
